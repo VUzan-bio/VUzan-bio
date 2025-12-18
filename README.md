@@ -1,4 +1,4 @@
-Biologist specialized in immunology and biologics, with hands-on experience across experimental design, data interpretation, and translational thinking from mechanism to preclinical relevance.
+Biologist specialized in immunology and biologics, with hands-on experience across experimental design, data interpretation, and translational thinking from mechanism to preclinical relevance at Sanofi and Lonza.
 
 I build projects that bridge experimental immunology with computational modeling—turning complex biological data (e.g., single-cell and spatial) into predictive systems that can guide hypotheses, experiments, and preclinical strategy. I’m also working on Holocyte, a platform aiming to simulate and ultimately replace key parts of in vitro and in vivo testing.
 
