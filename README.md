@@ -1,16 +1,12 @@
-Biologist specializing in immunology and biologics, with practical experience across R&D, processes and data science through research institutions and large groups such as Sanofi and Lonza.
-
-I build projects that bridge experimental immunology with computational modeling—turning complex biological data (e.g., single-cell and spatial) into predictive systems that can guide hypotheses, experiments, and preclinical strategy. 
-I’m also working on Holocyte, a platform aiming to simulate and ultimately replace key parts of in vitro and in vivo testing.
+Biologist specializing in immunology and biologics, with practical experience across R&D, GMP process development, and data science in research institutions and large biopharma (Sanofi, Lonza). I build projects that bridge experimental immunology with computational modeling—turning complex biological data (single‑cell, spatial, imaging, organoid‑derived) into predictive systems that guide hypotheses, experiments, and preclinical strategy. I’m also working on Holocyte, a platform aiming to simulate and ultimately replace key parts of in vitro and in vivo testing for oncology biologics.
 
 ## Research interests
-- ML for biology (graph models, representation learning, multimodal data).
-- Virtual cell + data-driven modeling of cell states and cell–cell interactions.
-- ML-enabled drug discovery & biologics engineering (design, optimization, and developability).
-- Preclinical translation with ML (biomarkers, stratification, response prediction, decision support).
+- ML for biology – graph models, representation learning, and multimodal integration for omics and imaging data.
+- Virtual cell & cell–cell interactions – data‑driven modeling of cell states, trajectories, and interaction networks in tissues.
+- ML‑enabled drug discovery & biologics engineering – design, optimization, and developability prediction for therapeutic antibodies and other biologics.
+- Preclinical translation with ML – biomarker discovery, patient stratification, response prediction, and decision support for preclinical/early‑clinical programs.
 
-## Looking For
-I’m looking to pursue a PhD at the intersection of immunology and machine learning, driven by a strong belief that the next era of biomedical progress will come from building real bridges between biology and computation.
+## Looking for
+I’m looking to pursue a PhD at the intersection of immunology and machine learning, because the next era of biomedical progress will come from building real bridges between biology and computation.
 
-Coming from a biology-first background, there is still a lot to learn on the technical side, and I’m actively working to deepen my skills in modeling and quantitative thinking. 
-My goal is to combine my background in biology and immunology with my expertise in wet lab work and apply it to computer science. My ultimate goal is to start a company combining ML and biology to accelerate discovery, development, and processes related to biologics.
+I come from a biology‑first background and have been actively building my quantitative toolkit through independent projects. My goal is to combine deep biological intuition with rigorous computational methods and eventually build a company that uses ML and mechanistic modeling to accelerate the discovery, development, and optimization of biologics.
