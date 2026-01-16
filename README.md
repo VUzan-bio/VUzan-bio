@@ -7,6 +7,6 @@ Biologist specializing in immunology and biologics, with practical experience ac
 - Preclinical translation with ML – biomarker discovery, patient stratification, response prediction, and decision support for preclinical/early‑clinical programs.
 
 ## Looking for
-I’m looking to pursue a PhD at the intersection of immunology and machine learning, as the next era of biomedical progress will come from building real bridges between biology and computation.
+I’m looking to pursue a PhD at the intersection of biology and machine learning, as the next era of biomedical progress will come from building real bridges between biology and computation.
 
 I come from a biology‑first background and have been actively building my quantitative toolkit through independent projects. My goal is to combine deep biological intuition with rigorous computational methods and eventually build a company that uses ML and mechanistic modeling to accelerate the discovery, development, and optimization of biologics.
