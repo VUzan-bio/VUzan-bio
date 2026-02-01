@@ -8,4 +8,4 @@ Biologist specializing in immunology and biologics, with practical experience ac
 - Preclinical translation with ML – biomarker discovery, patient stratification, response prediction, and decision support for preclinical/early‑clinical programs.
 
 ## Looking for
-I’m seeking a PhD at the intersection of immunology and machine learning, ideally in a lab working on immune trafficking/tissue niches, with strong single-cell/spatial (and optionally imaging) data. I’m biology-first and I’m building depth in quantitative methods through public, reproducible projects; my goal is to contribute immediately with analysis pipelines and, over time, develop models that produce falsifiable hypotheses and improve experimental efficiency.
+PhD position where I can contribute both experimentally and computationally. Interested in labs working on immune biology, antibody engineering, or systems immunology with access to high-dimensional data.
