@@ -5,7 +5,5 @@ Biologist specializing in immunology and biologics, with practical experience ac
 - ML for biology – graph models, representation learning, and multimodal integration for omics and imaging data.
 - Virtual cell & cell–cell interactions – data‑driven modeling of cell states, trajectories, and interaction networks in tissues.
 - ML‑enabled drug discovery & biologics engineering – design, optimization, and developability prediction for therapeutic antibodies and other biologics.
-- Preclinical translation with ML – biomarker discovery, patient stratification, response prediction, and decision support for preclinical/early‑clinical programs.
+- Translational research combining machine learning, molecular biology, and biosensor engineering to bring diagnostic technologies from bench to bedside.
 
-## Looking for
-PhD position where I can contribute both experimentally and computationally. Interested in labs working on immune biology, antibody engineering, or systems immunology with access to high-dimensional data.
