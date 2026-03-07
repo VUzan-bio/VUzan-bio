@@ -4,8 +4,8 @@ I’m also working on Holocyte — a virtual cell world-model research lab based
 
 ## Research interests
 
-- ML for biology – graph models, representation learning, and multimodal integration for omics and imaging data.
-- Virtual cell & cell–cell interactions – data‑driven modeling of cell states, trajectories, and interaction networks in tissues.
-- ML‑enabled drug discovery & biologics engineering – design, optimization, and developability prediction for therapeutic antibodies and other biologics.
-- Translational research combining machine learning, molecular biology, and biosensor engineering to bring diagnostic technologies from bench to bedside.
+- Self-supervised genomics — JEPA and language models for learning representations of DNA.
+- Computational molecular diagnostics — ML-guided biosensor design bridging in silico sequence analysis with electrochemical detection.
+- ML for drug discovery — foundation models for predicting cellular responses to perturbations from single-cell transcriptomics.
+- Translational bioengineering — integrating machine learning, molecular biology, and device engineering to move diagnostic and therapeutic technologies to the point of care.
 
